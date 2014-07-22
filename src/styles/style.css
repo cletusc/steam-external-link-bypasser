@@ -1,0 +1,22 @@
+#steam-external-link-bypasser-bypass-host {
+	margin-top: 10px;
+}
+
+.steam-external-link-bypasser-manager {
+	padding-top: 50px;
+	font-size: 150%;
+}
+
+.steam-external-link-bypasser-manager .remove-host {
+	display: block;
+	text-decoration: none !important;
+	width: 300px;
+	text-align: left;
+	margin: 0 auto;
+
+}
+
+.steam-external-link-bypasser-manager .close {
+	color: #aa0000;
+	margin-right: 20px;
+}
